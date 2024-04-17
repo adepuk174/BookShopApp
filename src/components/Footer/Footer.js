@@ -55,7 +55,7 @@ const Footer = () => {
           <MDBCol md="8" lg="8">
             <p className="text-center text-md-left grey-text">
               &copy; {new Date().getFullYear()} Made by
-              <a href=""> Akshat Jalan </a>
+              <a href=""> Siri and Keerthana </a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" className="ml-lg-0">
