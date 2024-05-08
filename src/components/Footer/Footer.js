@@ -10,10 +10,10 @@ const Footer = () => {
           <MDBCol md="3" lg="3" xl="4" className="mx-auto mt-3">
             <h6 className="text-uppercase mb-4 font-weight-bold">
               <img src={logo} alt="Book Store App" height="50px" />
-              <strong>Book-IT</strong>
+              <strong>BookRack</strong>
             </h6>
             <p>
-              Book-IT is an online React web application where the customer can
+              BookRack is an online React web application where the customer can
               purchase books online. Through this book store the users can
               search for a book by its title and later can add to the shopping
               cart and finally purchase using credit card transaction.
