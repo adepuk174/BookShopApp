@@ -25,7 +25,7 @@ const Footer = () => {
               <strong>Products</strong>
             </h6>
             <p>
-              <a href="#">Book-IT</a>
+              <a href="#">BookRack</a>
             </p>
             <p>
               <a href="https://github.com/sirivarenya">Portfolio</a>
