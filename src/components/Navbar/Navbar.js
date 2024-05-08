@@ -31,7 +31,7 @@ const Navbar = ({ totalItems }) => {
               height="50px"
               className={classes.image}
             />
-            <div>BookShop</div>
+            <div>BOOKRACK</div>
           </Typography>
 
           <div className={classes.grow} />
